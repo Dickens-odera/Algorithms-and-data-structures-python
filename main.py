@@ -20,6 +20,7 @@ class Algorithms:
                 j -= 1
                 print(self.A)
 
+#run the application by creating an instance of the Algorithms class and calling it's method
 if __name__ == "__main__":
     algorithms = Algorithms()
     algorithms.insertionSort2()
