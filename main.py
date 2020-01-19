@@ -1,6 +1,6 @@
 class Algorithms:
     def __init__(self):
-        self.A = [8,6,3,1,9,2,5,7,4,10,0]
+        self.A = [8,6,3,1,9,2,5,7,4,10,0] #The list of the numbers to be sorted in ascending order
         
     #insertion sort using a for loop
     def insertionSort1(self):
