@@ -22,5 +22,4 @@ class Algorithms:
 
 if __name__ == "__main__":
     algorithms = Algorithms()
-    print(algorithms.welcome())
     algorithms.insertionSort2()
