@@ -1,4 +1,4 @@
-###Python Algorithms and Data Structures
+# Python Algorithms and Data Structures
 <p>Algorithms and data structures are the key concepts of Computer Science</p>
 <p>In this code repo, i intend to do a practice on the following:</p>
 <ol>
